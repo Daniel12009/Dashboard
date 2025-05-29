@@ -3,3 +3,9 @@ pandas
 numpy
 plotly
 Pillow
+streamlit
+pandas
+matplotlib
+numpy
+
+openpyxl
