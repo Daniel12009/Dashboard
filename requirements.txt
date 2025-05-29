@@ -1,1 +1,5 @@
-streamlit\npandas\nopenpyxl\nmatplotlib\nnumpy
+streamlit
+npandas
+nopenpyxl
+nmatplotlib
+nnumpy
