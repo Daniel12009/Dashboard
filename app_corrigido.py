@@ -45,7 +45,7 @@ st.set_page_config(page_title="ViaFlix Dashboard", page_icon="📊", layout="wid
 st.markdown(f"""<style>
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
     html, body, [class*="css"] {{ font-family: 'Inter', sans-serif; }}
-    .main {{ background-color: {background_main}; color: {text_color_main}; }}
+    .main {{ background-color: #FFFFFF; color: {text_color_main}; }}
     #MainMenu {{visibility: hidden;}} footer {{visibility: hidden;}} header {{visibility: hidden;}}
     
     /* Ajuste completo do sidebar para azul escuro */
